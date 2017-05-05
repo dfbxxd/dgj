@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.bxfinance.com/uploads/soft/daguanjia.ipa</string>
+					<string>https://raw.githubusercontent.com/dfbxxd/dgj/master/daguanjia.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.bxfinance.com/uploads/soft/daguanjia.ico</string>
+					<string>https://raw.githubusercontent.com/dfbxxd/dgj/master/daguanjia.ico</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.bxfinance.com/uploads/soft/daguanjia.ico</string>
+					<string>https://raw.githubusercontent.com/dfbxxd/dgj/master/daguanjia.ico</string>
 				</dict>
 			</array>
 			<key>metadata</key>
